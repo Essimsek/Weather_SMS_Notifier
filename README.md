@@ -17,7 +17,7 @@ pip install -r requirements.txt
    **Twilio:**
    - Create a Twilio account at https://www.twilio.com/.
    - Get your Twilio Account SID and Auth Token from the Twilio dashboard.
-   - Purchase a Twilio phone number that supports SMS messaging and assign it to your account.
+  
 
    **OpenWeatherMap:**
    - Sign up for a free account at https://home.openweathermap.org/users/sign_up.
