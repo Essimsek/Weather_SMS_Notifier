@@ -33,3 +33,9 @@ python weather_sms_notifier.py
   ```
     Do not forget to change the informations with your actual api and twilio account sid etc.
   ```
+6. Make this code work every day with pythoneverywhere
+```
+https://www.pythonanywhere.com/
+You can sign up and make your projects work everyday 
+```
+
