@@ -26,7 +26,7 @@ pip install -r requirements.txt
 4. Run the script:
 
 ```bash
-python weather_sms_notifier.py
+python main.py
 ```
 
 5. The script will send an SMS notification if rain is expected in the next 12 hours
